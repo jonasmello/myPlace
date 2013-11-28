@@ -2,7 +2,7 @@
  *  Project: myPlace
  *  Description: Em layouts onde o placeholder está sendo usado como label, o myPlace faz com que o placeholder permaneça sempre visível e assim não deixando o campo sem label mesmo após preenchido.
  *  Author: Jonas Mello
- *  License:
+ *  License: MIT
  */
  ;(function ($, window, document, undefined) {
 
